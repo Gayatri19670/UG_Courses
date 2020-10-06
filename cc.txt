@@ -1,0 +1,76 @@
+HTML CODE
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CULTURAL-CLUB-IIMT</title>
+        <link href="css/styles.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <div class="container">
+            <div id="heading-block">
+              <h2>CULTURAL-CLUB</h2>
+            </div>
+            <div id="nav"></div>
+            <h3>Cultural-Club</h3>
+        </div>
+        <a1><img src="images/DSC_5531.JPG"
+            alt="Cultural-Club" title="Running with these is not recommended."></a1>
+        <p3>The Cultural Club is a club dedicated to spreading awareness, understanding, and appreciation of a particular culture, its people, diversity, and values. The Club focus to promote exposure and to grow the awareness among the students.</br> From dramatics to literature, from poetry to music and dance, this is the place to come and experience it all.</br>
+             The main objective of the club is to bring about a voluntary change in the students.</br>
+             The club also acts as a forum to improve someone's communication skills, expressivity and critical thinking power.For this purpose, the teachers and management provide facilities to achieve the desired changes or to make the suitable choices.</br>
+        </p3>
+        <p4>The objectives of the club are:-</br></p4>
+        <p5># The cultural club provides platform for those talent to flourish.</br>
+            # Promote quality and artistic renewal.</br>
+            # Promote accessibilities.</br>
+            # To encourage and develop special abilities and right attitudes.</br>
+            # It removes hesitation among students as well as teachers.</br>
+        </p5>
+    </body>
+</html>
+
+
+CSS CODE
+
+/*cultural club styling*/
+/*this is for nav bar styling*/
+#nav{
+    width: 100%;
+    height: 5px;
+    background: rgb(39, 41, 40);
+    float: left;
+    box-shadow: 10px 14px 50px 2px rgb(85, 90, 88);
+}
+a1 img{
+    width: 50%;
+    margin: 1px auto;
+    float: right;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    border: solid black 1px;
+    padding: 2px;
+    margin-left: 10px;
+}
+h3{
+    font-size: 30px;
+    padding-top: 150px;
+    font-family: cursive;
+    margin-top: 8px;
+    padding-left: 20px;
+    color: rgb(80, 80, 199);
+}
+p3{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: sans-serif;
+    font-style: inherit;
+}
+p4{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+}
+p5{
+    font-style: normal;
+    font-size: 20px;
+}
