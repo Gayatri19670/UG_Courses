@@ -45,6 +45,7 @@
 
 .cat .catbox:hover {
     background: linear-gradient( to right, rgba(248, 45, 45, 0.836), rgb(235, 137, 10));
+    box-shadow: 4px 0px 13px black inset;
 }
 
 .catbox a {
