@@ -39,7 +39,7 @@
     border-radius: .5rem;
     box-shadow: 10px 14px 50px 2px rgb(58, 56, 56);
     text-align: center;
-    background: linear-gradient( to right, rgba(240, 5, 5, 0.836), white);
+    background: linear-gradient( to right, rgba(240, 5, 5, 0.836), rgba(245, 121, 121, 0.925));
 }
 
 .cat .catbox:hover {
