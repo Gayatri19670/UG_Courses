@@ -105,8 +105,8 @@ h3 {
 
 p3 {
     font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-family: sans-serif;
+    font-family: cursive;
+    font-weight: 500;
     font-style: inherit;
     display: flex;
     justify-content: center;
@@ -114,6 +114,7 @@ p3 {
 }
 
 p4 {
+  font-family: cursive;
     font-style: normal;
     font-weight: bold;
     font-size: 25px;
@@ -123,6 +124,7 @@ p4 {
 }
 
 p5 {
+  font-family: cursive;
     font-style: normal;
     font-size: 20px;
     display: flex;
