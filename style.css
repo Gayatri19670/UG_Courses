@@ -93,6 +93,10 @@ a1 img {
     padding: 2px;
     margin-left: 10px;
 }
+h1{
+  font-family: cursive;
+  font-weight: 700;
+}
 
 h3 {
     font-size: 30px;
